@@ -1,3 +1,3 @@
 # mintest
-<deee
-<teee
+< deee
+< teee
